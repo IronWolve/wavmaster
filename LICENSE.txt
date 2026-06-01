@@ -1,0 +1,26 @@
+Wavmaster
+Copyright (c) 2026 IronWolve. All rights reserved.
+
+This software and its accompanying documentation ("Wavmaster") are proprietary.
+They are provided to you for your own personal use only.
+
+You MAY NOT, in whole or in part:
+  - copy, redistribute, publish, post, share, or give away Wavmaster;
+  - sell, rent, lease, sublicense, or otherwise transfer it to anyone;
+  - reverse engineer, decompile, or disassemble it, except to the extent this
+    restriction is expressly prohibited by applicable law.
+
+No license or right is granted except as expressly stated above. All rights not
+expressly granted are reserved by the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Wavmaster relies on separate third-party programs (ffmpeg, SoX, mpv) that you
+install yourself; those are licensed under their own terms and are NOT
+distributed with Wavmaster. Bundled open-source components and their notices are
+listed in THIRD-PARTY-LICENSES.txt.

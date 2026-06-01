@@ -1,0 +1,11 @@
+# Keep text files as LF in the repo so editing on Windows doesn't show CRLF churn.
+* text=auto eol=lf
+
+# Binary assets — never line-ending-normalized (and never committed anyway; see .gitignore)
+*.jpg binary
+*.png binary
+*.zip binary
+*.exe binary
+*.mp3 binary
+*.wav binary
+*.mp4 binary

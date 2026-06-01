@@ -1,0 +1,14 @@
+# This folder doubles as the working dir (the app runs here and saves masters), so use
+# default-DENY: git tracks ONLY the docs listed below. Everything else is ignored no matter
+# what lands here — binaries, zips, saved masters (.mp3/.wav/.flac/.txt), demo audio, temp/,
+# screenshots, videos. The binaries/zips ship via GitHub Releases, not the repo.
+*
+
+!.gitignore
+!.gitattributes
+!README.md
+!HELP.md
+!INSTALL.md
+!LICENSE.txt
+!THIRD-PARTY-LICENSES.txt
+!wavmaster.jpg
